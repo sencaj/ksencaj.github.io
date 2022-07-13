@@ -1,85 +1,196 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BIH| HNTV HD" tvg-logo="https://lo1.in/LOGO/EXYU/BOSNIA/hntv.png" group-title="EU | EXYU BOSNIA",BIH| HNTV HD
-http://tv365.me:900/7111780387/2529554073/174490
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ |EXYU| ARENA SPORT ✦●✦" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/flage.png" group-title="EU | EXYU SPORTS",✦●✦ |EXYU| ARENA SPORT ✦●✦
-http://tv365.me:900/7111780387/2529554073/185876
 #EXTINF:-1 tvg-id="arenafight.rs" tvg-name="EXYU| ARENA FIGHT HD" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENAFIGHT.png" group-title="EU | EXYU SPORTS",EXYU| ARENA FIGHT HD
-http://tv365.me:900/7111780387/2529554073/400269255
+http://ip365.cx:900/4109252538/8459048939/400269255
 #EXTINF:-1 tvg-id="arenaesport.rs" tvg-name="EXYU| ARENA ESPORT HD" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENAESPORT.png" group-title="EU | EXYU SPORTS",EXYU| ARENA ESPORT HD
-http://tv365.me:900/7111780387/2529554073/400269254
+http://ip365.cx:900/4109252538/8459048939/400269254
 #EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="EXYU| ARENA 1 PREMIUM FHD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENA1PREMIUM.png" group-title="EU | EXYU SPORTS",EXYU| ARENA 1 PREMIUM FHD SR
-http://tv365.me:900/7111780387/2529554073/400269009
+http://ip365.cx:900/4109252538/8459048939/400269009
 #EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="EXYU| ARENA 2 PREMIUM FHD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENA2PREMIUM.png" group-title="EU | EXYU SPORTS",EXYU| ARENA 2 PREMIUM FHD SR
-http://tv365.me:900/7111780387/2529554073/400269008
+http://ip365.cx:900/4109252538/8459048939/400269008
 #EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="EXYU| ARENA 3 PREMIUM FHD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENA3PREMIUM.png" group-title="EU | EXYU SPORTS",EXYU| ARENA 3 PREMIUM FHD SR
-http://tv365.me:900/7111780387/2529554073/400269007
+http://ip365.cx:900/4109252538/8459048939/400269007
 #EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="EXYU| ARENA SPORT 1 HD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport1%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 1 HD SR
-http://tv365.me:900/7111780387/2529554073/174081
+http://ip365.cx:900/4109252538/8459048939/174081
 #EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport2.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 2 HD SR
-http://tv365.me:900/7111780387/2529554073/174082
+http://ip365.cx:900/4109252538/8459048939/174082
 #EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="EXYU| ARENA SPORT 3 HD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport3.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 3 HD SR
-http://tv365.me:900/7111780387/2529554073/174083
+http://ip365.cx:900/4109252538/8459048939/174083
 #EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport4.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 4 HD SR
-http://tv365.me:900/7111780387/2529554073/174084
+http://ip365.cx:900/4109252538/8459048939/174084
 #EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="EXYU| ARENA SPORT 5 HD SR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport5.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 5 HD SR
-http://tv365.me:900/7111780387/2529554073/174085
+http://ip365.cx:900/4109252538/8459048939/174085
 #EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="EXYU| ARENA SPORT 1 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport1%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 1 HD HR
-http://tv365.me:900/7111780387/2529554073/373283
+http://ip365.cx:900/4109252538/8459048939/373283
 #EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport2.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 2 HD HR
-http://tv365.me:900/7111780387/2529554073/373284
+http://ip365.cx:900/4109252538/8459048939/373284
 #EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="EXYU| ARENA SPORT 3 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport3.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 3 HD HR
-http://tv365.me:900/7111780387/2529554073/373366
+http://ip365.cx:900/4109252538/8459048939/373366
 #EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport4.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 4 HD HR
-http://tv365.me:900/7111780387/2529554073/373367
+http://ip365.cx:900/4109252538/8459048939/373367
 #EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="EXYU| ARENA SPORT 5 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport5.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 5 HD HR
-http://tv365.me:900/7111780387/2529554073/373368
+http://ip365.cx:900/4109252538/8459048939/373368
 #EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="EXYU| ARENA SPORT 6 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport6.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 6 HD HR
-http://tv365.me:900/7111780387/2529554073/373389
+http://ip365.cx:900/4109252538/8459048939/373389
 #EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="EXYU| ARENA SPORT 7 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENASPORT7.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 7 HD HR
-http://tv365.me:900/7111780387/2529554073/400269199
+http://ip365.cx:900/4109252538/8459048939/400269199
 #EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="EXYU| ARENA SPORT 8 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport8.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 8 HD HR
-http://tv365.me:900/7111780387/2529554073/400269198
+http://ip365.cx:900/4109252538/8459048939/400269198
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 9 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport9.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 9 HD HR
-http://tv365.me:900/7111780387/2529554073/400269197
+http://ip365.cx:900/4109252538/8459048939/400269197
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 10 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENASPORT10.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 10 HD HR
-http://tv365.me:900/7111780387/2529554073/400269196
+http://ip365.cx:900/4109252538/8459048939/400269196
 #EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="EXYU| ARENA SPORT 1 HD SI" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport1%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 1 HD SI
-http://tv365.me:900/7111780387/2529554073/373769
+http://ip365.cx:900/4109252538/8459048939/373769
 #EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD SI" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport2.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 2 HD SI
-http://tv365.me:900/7111780387/2529554073/373770
+http://ip365.cx:900/4109252538/8459048939/373770
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD BIH" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport1%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 1 HD BIH
-http://tv365.me:900/7111780387/2529554073/373771
+http://ip365.cx:900/4109252538/8459048939/373771
 #EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD BIH" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport2.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 2 HD BIH
-http://tv365.me:900/7111780387/2529554073/373772
+http://ip365.cx:900/4109252538/8459048939/373772
 #EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="EXYU| ARENA SPORT 3 HD BIH" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport3.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 3 HD BIH
-http://tv365.me:900/7111780387/2529554073/373773
+http://ip365.cx:900/4109252538/8459048939/373773
 #EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD BIH" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport4.png" group-title="EU | EXYU SPORTS",EXYU| ARENA SPORT 4 HD BIH
-http://tv365.me:900/7111780387/2529554073/373774
+http://ip365.cx:900/4109252538/8459048939/373774
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ |EXYU| SPORT KLUB ✦●✦" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/flage.png" group-title="EU | EXYU SPORTS",✦●✦ |EXYU| SPORT KLUB ✦●✦
-http://tv365.me:900/7111780387/2529554073/185773
+http://ip365.cx:900/4109252538/8459048939/185773
 #EXTINF:-1 tvg-id="sportklubgolf.si" tvg-name="EXYU| SPORT KLUB GOLF HD" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklubgolf.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB GOLF HD
-http://tv365.me:900/7111780387/2529554073/174277
+http://ip365.cx:900/4109252538/8459048939/174277
 #EXTINF:-1 tvg-id="sportklubhd.hr" tvg-name="EXYU| SPORT KLUB HD" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklubhd%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB HD
-http://tv365.me:900/7111780387/2529554073/174278
+http://ip365.cx:900/4109252538/8459048939/174278
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE| SKY SPORT F1 HD" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportf1.png" group-title="EU | GERMANY HD",DE| SKY SPORT F1 HD
+http://ip365.cx:900/4109252538/8459048939/379652
 #EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub1%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]
-http://tv365.me:900/7111780387/2529554073/116020
+http://ip365.cx:900/4109252538/8459048939/116020
 #EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="EXYU| SPORT KLUB 2 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub2%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 2 FHD SR [ LIVE EVENTS ]
-http://tv365.me:900/7111780387/2529554073/116021
+http://ip365.cx:900/4109252538/8459048939/116021
 #EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="EXYU| SPORT KLUB 3 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub3.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 3 FHD SR [ LIVE EVENTS ]
-http://tv365.me:900/7111780387/2529554073/116022
+http://ip365.cx:900/4109252538/8459048939/116022
 #EXTINF:-1 tvg-id="sportklub1.si" tvg-name="EXYU| SPORT KLUB 1 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub1%20%281%29.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 1 HD HR
-http://tv365.me:900/7111780387/2529554073/374716
+http://ip365.cx:900/4109252538/8459048939/374716
 #EXTINF:-1 tvg-id="sportklub2.si" tvg-name="EXYU| SPORT KLUB 2 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub2%20%282%29.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 2 HD HR
-http://tv365.me:900/7111780387/2529554073/374717
+http://ip365.cx:900/4109252538/8459048939/374717
 #EXTINF:-1 tvg-id="sportklub3.si" tvg-name="EXYU| SPORT KLUB 3 FHD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub3.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 3 FHD HR
-http://tv365.me:900/7111780387/2529554073/374718
+http://ip365.cx:900/4109252538/8459048939/374718
 #EXTINF:-1 tvg-id="sportklub4.si" tvg-name="EXYU| SPORT KLUB 4 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub4.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 4 HD HR
-http://tv365.me:900/7111780387/2529554073/374719
+http://ip365.cx:900/4109252538/8459048939/374719
 #EXTINF:-1 tvg-id="sportklub5.si" tvg-name="EXYU| SPORT KLUB 5 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub5.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 5 HD HR
-http://tv365.me:900/7111780387/2529554073/374721
+http://ip365.cx:900/4109252538/8459048939/374721
 #EXTINF:-1 tvg-id="sportklub6.si" tvg-name="EXYU| SPORT KLUB 6 HD HR" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub6.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 6 HD HR
-http://tv365.me:900/7111780387/2529554073/374725
+http://ip365.cx:900/4109252538/8459048939/374725
 #EXTINF:-1 tvg-id="sportklub7.rs" tvg-name="EXYU| SPORT KLUB 7 HD HR [SAMO DOGA?AJ UÏ¿½IVO]" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub7.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 7 HD HR [SAMO DOGA?AJ UÏ¿½IVO]
-http://tv365.me:900/7111780387/2529554073/174275
+http://ip365.cx:900/4109252538/8459048939/174275
 #EXTINF:-1 tvg-id="sportklub8.rs" tvg-name="EXYU| SPORT KLUB 8 HD HR [SAMO DOGAĐAJ UŽIVO]" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/sportklub8.png" group-title="EU | EXYU SPORTS",EXYU| SPORT KLUB 8 HD HR [SAMO DOGAĐAJ UŽIVO]
-http://tv365.me:900/7111780387/2529554073/174276
+http://ip365.cx:900/4109252538/8459048939/174276
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN FHD",ES| DAZN F1 ESPAÑA FHD
+http://ip365.cx:900/4109252538/8459048939/165888
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN FHD",ES| DAZN 1 ESPAÑA FHD
+http://ip365.cx:900/4109252538/8459048939/360194
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN FHD",ES| DAZN 2 ESPAÑA FHD
+http://ip365.cx:900/4109252538/8459048939/360195
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÑA FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="EU | SPAIN FHD",ES| DAZN 3 ESPAÑA FHD
+http://ip365.cx:900/4109252538/8459048939/379042
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÑA FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="EU | SPAIN FHD",ES| DAZN 4 ESPAÑA FHD
+http://ip365.cx:900/4109252538/8459048939/379043
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL| ESPN SPORTS 1 HEVC" tvg-logo="https://lo1.in/LOGO/netherland/espn.png" group-title="EU | NETHERLANDS  HEVC",NL| ESPN SPORTS 1 HEVC
+http://ip365.cx:900/4109252538/8459048939/3116
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL| ESPN SPORTS 2 HEVC" tvg-logo="https://lo1.in/LOGO/netherland/espn2.png" group-title="EU | NETHERLANDS  HEVC",NL| ESPN SPORTS 2 HEVC
+http://ip365.cx:900/4109252538/8459048939/3115
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL| ESPN SPORTS 3 HEVC" tvg-logo="https://lo1.in/LOGO/netherland/espn3.png" group-title="EU | NETHERLANDS  HEVC",NL| ESPN SPORTS 3 HEVC
+http://ip365.cx:900/4109252538/8459048939/3114
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL| ESPN SPORTS 4 HEVC" tvg-logo="https://lo1.in/LOGO/netherland/espn4.png" group-title="EU | NETHERLANDS  HEVC",NL| ESPN SPORTS 4 HEVC
+http://ip365.cx:900/4109252538/8459048939/3113
+http://ip365.cx:900/4109252538/8459048939/171208
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL| ESPN SPORTS 1 HD" tvg-logo="https://lo1.in/LOGO/netherland/espn.png" group-title="EU | NETHERLANDS HD",NL| ESPN SPORTS 1 HD
+http://ip365.cx:900/4109252538/8459048939/16873
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL| ESPN SPORTS 2 HD" tvg-logo="https://lo1.in/LOGO/netherland/espn2.png" group-title="EU | NETHERLANDS HD",NL| ESPN SPORTS 2 HD
+http://ip365.cx:900/4109252538/8459048939/16872
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL| ESPN SPORTS 3 HD" tvg-logo="https://lo1.in/LOGO/netherland/espn3.png" group-title="EU | NETHERLANDS HD",NL| ESPN SPORTS 3 HD
+http://ip365.cx:900/4109252538/8459048939/16871
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL| ESPN SPORTS 4 HD" tvg-logo="https://lo1.in/LOGO/netherland/espn4.png" group-title="EU | NETHERLANDS HD",NL| ESPN SPORTS 4 HD
+http://ip365.cx:900/4109252538/8459048939/16870
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsport1hd.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 1 FHD
+http://ip365.cx:900/4109252538/8459048939/615
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsport2hd.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 2 FHD
+http://ip365.cx:900/4109252538/8459048939/616
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsports3.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 3 FHD
+http://ip365.cx:900/4109252538/8459048939/617
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax4.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/618
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax5.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/619
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax6.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/620
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax7.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/621
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax8.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/622
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax9.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/623
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsportmax10.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/624
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1 LEAGUE DES CHAMPIONS FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsport1hd.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 1 LEAGUE DES CHAMPIONS FHD
+http://ip365.cx:900/4109252538/8459048939/400365931
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2 LEAGUE DES CHAMPIONS FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsport2hd.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 2 LEAGUE DES CHAMPIONS FHD
+http://ip365.cx:900/4109252538/8459048939/400365927
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3 LEAGUE DES CHAMPIONS FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/beinsports3.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 3 LEAGUE DES CHAMPIONS FHD
+http://ip365.cx:900/4109252538/8459048939/400365923
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/eurosport1.png" group-title="EU | FRANCE SPORTS ",FR| EUROSPORT 1 FHD
+http://ip365.cx:900/4109252538/8459048939/633
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="https://lo1.in/LOGO/FRANCE/eurosport2.png" group-title="EU | FRANCE SPORTS ",FR| EUROSPORT 2 FHD
+http://ip365.cx:900/4109252538/8459048939/634
+#EXTINF:-1 tvg-id="skyracing1.au" tvg-name="AU| SKY RACING 1 HD" tvg-logo="https://lo1.in/LOGO/AUS/SkyRacing1.png" group-title="AS | AUSTRALIA",AU| SKY RACING 1 HD
+http://ip365.cx:900/4109252538/8459048939/355775
+#EXTINF:-1 tvg-id="skyracing2.au" tvg-name="AU| SKY RACING 2 HD" tvg-logo="https://lo1.in/LOGO/AUS/SkyRacing2.png" group-title="AS | AUSTRALIA",AU| SKY RACING 2 HD
+http://ip365.cx:900/4109252538/8459048939/355776
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE| SKY BUNDESLIGA 1 HD" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga1.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 1 HD
+http://ip365.cx:900/4109252538/8459048939/164494
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga2.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16243
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga3.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16242
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga4.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16241
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE| SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga5.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16240
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE| SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga6_1.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16239
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE| SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga7.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16238
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE| SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga8.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16237
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE| SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga9.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/322997
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE| SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)" tvg-logo="https://lo1.in/LOGO/GERMANY/skysportbundesliga10.png" group-title="EU | GERMANY HD",DE| SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://ip365.cx:900/4109252538/8459048939/16235
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE| SKY SPORT NEWS HD" tvg-logo="https://lo1.in/LOGO/GERMANY/SKYSPORTNEWSHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT NEWS HD
+http://ip365.cx:900/4109252538/8459048939/164507
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE| SKY SPORT 1 HD" tvg-logo="https://lo1.in/LOGO/GERMANY/SKYSPORT1.png" group-title="EU | GERMANY HD",DE| SKY SPORT 1 HD
+http://ip365.cx:900/4109252538/8459048939/164495
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE| SKY SPORT 2 HD" tvg-logo="https://lo1.in/LOGO/GERMANY/SKYSPORT2HD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 2 HD
+http://ip365.cx:900/4109252538/8459048939/164496
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE| SKY SPORT 3 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 3 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164497
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE| SKY SPORT 4 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 4 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164498
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE| SKY SPORT 5 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 5 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164499
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE| SKY SPORT 6 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 6 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164500
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE| SKY SPORT 7 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 7 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164501
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE| SKY SPORT 8 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 8 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164502
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE| SKY SPORT 9 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 9 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164503
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE| SKY SPORT 10 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 10 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164504
+#EXTINF:-1 tvg-id="skysport11.de" tvg-name="DE| SKY SPORT 11 HD (EVENT ONLY)" tvg-logo="https://lo1.in/LOGO/GERMANY/SkySportHD.png" group-title="EU | GERMANY HD",DE| SKY SPORT 11 HD (EVENT ONLY)
+http://ip365.cx:900/4109252538/8459048939/164505
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE| SKY SPORT AUSTRIA 1 HD" tvg-logo="https://lo1.in/LOGO/GERMANY/Sky_Sport_Austria_HD.png" group-title="EU | GERMANY HD",DE| SKY SPORT AUSTRIA 1 HD
+http://ip365.cx:900/4109252538/8459048939/164506
+#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="DE| SKY SPORT AUSTRIA 3 HD  [NUR WÄHREND DER SPIELE]" tvg-logo="https://lo1.in/LOGO/GERMANY/Sky_Sport_Austria_HD.png" group-title="EU | GERMANY HD",DE| SKY SPORT AUSTRIA 3 HD  [NUR WÄHREND DER SPIELE]
+http://ip365.cx:900/4109252538/8459048939/400220834
+#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="DE| SKY SPORT AUSTRIA 2 HD  [NUR WÄHREND DER SPIELE]" tvg-logo="https://lo1.in/LOGO/GERMANY/Sky_Sport_Austria_HD.png" group-title="EU | GERMANY HD",DE| SKY SPORT AUSTRIA 2 HD  [NUR WÄHREND DER SPIELE]
+http://ip365.cx:900/4109252538/8459048939/400220835
+#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="DE| SKY SPORT AUSTRIA 4 HD  [NUR WÄHREND DER SPIELE]" tvg-logo="https://lo1.in/LOGO/GERMANY/Sky_Sport_Austria_HD.png" group-title="EU | GERMANY HD",DE| SKY SPORT AUSTRIA 4 HD  [NUR WÄHREND DER SPIELE]
+http://ip365.cx:900/4109252538/8459048939/400220833
