@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL| SUPER SPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SuperSport1.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 1 HD
+http://ip365.cx:900/4109252538/8459048939/118041
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="AL| SUPER SPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SuperSport2.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 2 HD
+http://ip365.cx:900/4109252538/8459048939/118057
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="AL| SUPER SPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SuperSport3.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 3 HD
+http://ip365.cx:900/4109252538/8459048939/118058
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="AL| SUPER SPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SuperSport4.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 4 HD
+http://ip365.cx:900/4109252538/8459048939/118059
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="AL| SUPER SPORT 5 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SuperSport5.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 5 HD
+http://ip365.cx:900/4109252538/8459048939/118060
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="AL| SUPER SPORT 6 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SuperSport6.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 6 HD
+http://ip365.cx:900/4109252538/8459048939/118061
+#EXTINF:-1 tvg-id="" tvg-name="AL| SUPER SPORT 7 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/SUPERSPORT7.png" group-title="EU | ALBANIA SPORTS",AL| SUPER SPORT 7 HD
+http://ip365.cx:900/4109252538/8459048939/400142477
 #EXTINF:-1 tvg-id="arenafight.rs" tvg-name="EXYU| ARENA FIGHT HD" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENAFIGHT.png" group-title="EU | EXYU SPORTS",EXYU| ARENA FIGHT HD
 http://ip365.cx:900/4109252538/8459048939/400269255
 #EXTINF:-1 tvg-id="arenaesport.rs" tvg-name="EXYU| ARENA ESPORT HD" tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENAESPORT.png" group-title="EU | EXYU SPORTS",EXYU| ARENA ESPORT HD
