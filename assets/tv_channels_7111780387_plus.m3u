@@ -319,3 +319,343 @@ http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/862834
 http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/862833
 #EXTINF:-1 tvg-id="" tvg-name="BEIN HGTV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-HGTV.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN HGTV HD
 http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/862832
+
+#EXTINF:-1 tvg-id="US-SundanceTV USA - East" tvg-name="USA - SUNDANCE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sundancehd.png" group-title="|NA| USA MOVIES",USA - SUNDANCE HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/469530
+#EXTINF:-1 tvg-id="TMC.us" tvg-name="USA - THE MOVIE CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/THE-MOVIE-CHANNEL-HD.png" group-title="|NA| USA MOVIES",USA - THE MOVIE CHANNEL
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/469532
+#EXTINF:-1 tvg-id="" tvg-name="USA - CINE SONY HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinesony.png" group-title="|NA| USA MOVIES",USA - CINE SONY HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/552024
+#EXTINF:-1 tvg-id="ca.TSN1" tvg-name="SP - TSN 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tsn1hd.png" group-title="|NA| USA SPORTS",SP - TSN 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487807
+#EXTINF:-1 tvg-id="ca.TSN2" tvg-name="SP - TSN 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tsn2hd.png" group-title="|NA| USA SPORTS",SP - TSN 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487806
+#EXTINF:-1 tvg-id="ca.TSN3" tvg-name="SP - TSN 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tsn3hd.png" group-title="|NA| USA SPORTS",SP - TSN 3 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487805
+#EXTINF:-1 tvg-id="ca.TSN4" tvg-name="SP - TSN 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tsn4hd.jpg" group-title="|NA| USA SPORTS",SP - TSN 4 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487804
+#EXTINF:-1 tvg-id="ca.TSN5" tvg-name="SP - TSN 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tsn5hd.jpeg" group-title="|NA| USA SPORTS",SP - TSN 5 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487803
+#EXTINF:-1 tvg-id="ca.Sportsnet World" tvg-name="SP - SPORTSNET WORLD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-WORLD-HD.png" group-title="|NA| USA SPORTS",SP - SPORTSNET WORLD HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487796
+#EXTINF:-1 tvg-id="ca.Sportsnet (Pacific) - Satellite/Digital HD" tvg-name="SP - SPORTSNET PACIFIC HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-PACIFIC-HD.png" group-title="|NA| USA SPORTS",SP - SPORTSNET PACIFIC HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487797
+#EXTINF:-1 tvg-id="ca.Sportsnet (Ontario) - Satellite/Digital HD" tvg-name="SP - SPORTSNET ONTARIO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-ONTARIO.png" group-title="|NA| USA SPORTS",SP - SPORTSNET ONTARIO HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487798
+#EXTINF:-1 tvg-id="ca.Sportsnet One HD" tvg-name="SP - SPORTSNET ONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-ONE.png" group-title="|NA| USA SPORTS",SP - SPORTSNET ONE HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487799
+#EXTINF:-1 tvg-id="ca.Sportsnet (West) - Satellite/Digital" tvg-name="SP - SPORTSNET WEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-WEST-HD.png" group-title="|NA| USA SPORTS",SP - SPORTSNET WEST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487800
+#EXTINF:-1 tvg-id="ca.Sportsnet (East) HD" tvg-name="SP - SPORTSNET EAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-EAST.png" group-title="|NA| USA SPORTS",SP - SPORTSNET EAST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487801
+#EXTINF:-1 tvg-id="ca.Sportsnet 360 HD" tvg-name="SP - SPORTSNET 360 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-360-HD.png" group-title="|NA| USA SPORTS",SP - SPORTSNET 360 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487802
+#EXTINF:-1 tvg-id="" tvg-name="SP - SPORTSGRID" tvg-logo="http://logo.protv.cc/picons/logos/SPORTSGRID.png" group-title="|NA| USA SPORTS",SP - SPORTSGRID
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/761910
+#EXTINF:-1 tvg-id="" tvg-name="SP - MASN" tvg-logo="http://logo.protv.cc/picons-dino/logos/MASN-TV.png" group-title="|NA| USA SPORTS",SP - MASN
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/750886
+#EXTINF:-1 tvg-id="" tvg-name="SP - MASN 2" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MASN2.png" group-title="|NA| USA GENERAL",SP - MASN 2
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/802875
+#EXTINF:-1 tvg-id="US-ESPN News" tvg-name="SP - ESPN NEWS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ESPN-NEWS-HD.png" group-title="|NA| USA SPORTS",SP - ESPN NEWS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487783
+#EXTINF:-1 tvg-id="" tvg-name="SP - ESPN 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espnhd.png" group-title="|NA| USA SPORTS",SP - ESPN 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487782
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SP - ESPN 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.espn2hd.png" group-title="|NA| USA SPORTS",SP - ESPN 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487781
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="SP - ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="|NA| USA SPORTS",SP - ESPN 3 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/756601
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="SP - ESPN (ACCN) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/espnhd.png" group-title="|NA| USA SPORTS",SP - ESPN (ACCN) HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487777
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="SP - ESPN U HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ESPN-U-HD.png" group-title="|NA| USA SPORTS",SP - ESPN U HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487778
+#EXTINF:-1 tvg-id="ESPNGoalLine.us" tvg-name="SP - ESPN GOALINE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ESPN-GOAL-LINE.jpg" group-title="|NA| USA SPORTS",SP - ESPN GOALINE HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487779
+#EXTINF:-1 tvg-id="ESPNCL ESPN Classic" tvg-name="SP - ESPN CLASSIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/espnclassic.png" group-title="|NA| USA SPORTS",SP - ESPN CLASSIC
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487780
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="SP - ACC NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/acc_network.png" group-title="|NA| USA SPORTS",SP - ACC NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/642531
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="SP - NBC SPORTS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NBC-SPORTS.png" group-title="|NA| USA SPORTS",SP - NBC SPORTS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487784
+#EXTINF:-1 tvg-id="US-CBS Sports Network USA" tvg-name="SP - CBS SPORTS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbssport.png" group-title="|NA| USA SPORTS",SP - CBS SPORTS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487785
+#EXTINF:-1 tvg-id="" tvg-name="SP - AT&T SPORTSNET PITTSBURGH HD" tvg-logo="http://logo.protv.cc/picons/logos/AT&T-SPORTSNET.jpeg" group-title="|NA| USA SPORTS",SP - AT&T SPORTSNET PITTSBURGH HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/705798
+#EXTINF:-1 tvg-id="ATTSW AT&T SportsNet Southwest" tvg-name="SP - AT&T SPORTSNET SOUTHWEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/AT&T-SPORTSNET-SOUTHWEST-HD.jpg" group-title="|NA| USA SPORTS",SP - AT&T SPORTSNET SOUTHWEST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487677
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="SP - BEIN SPORTS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsportshd.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551772
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="SP - BEIN SPORTS LA LIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsportslaliga.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS LA LIGA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551771
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="SP - BEIN SPORTS XTRA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-SPORTS-XTRA.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS XTRA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551770
+#EXTINF:-1 tvg-id="" tvg-name="SP - BEIN SPORTS XTRA N (ES) HD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportshd.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS XTRA N (ES) HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/887676
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="SP - BEIN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsports4.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 4 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551769
+#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="SP - BEIN SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsports5.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 5 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551768
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="SP - BEIN SPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsports6.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 6 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551767
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="SP - BEIN SPORTS 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsports7.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 7 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551766
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="SP - BEIN SPORTS 8 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/beinsports8.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 8 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551765
+#EXTINF:-1 tvg-id="US-Big Ten Network" tvg-name="SP - BIG TEN NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BIG-TEN-NETWORK-HD.jpg" group-title="|NA| USA SPORTS",SP - BIG TEN NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487676
+#EXTINF:-1 tvg-id="" tvg-name="SP - CBN NEWS INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbnnews.png" group-title="|NA| USA SPORTS",SP - CBN NEWS INTERNATIONAL
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487678
+#EXTINF:-1 tvg-id="US-NBC Sports Boston" tvg-name="SP - CSN BOSTON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-BOSTON.png" group-title="|NA| USA SPORTS",SP - CSN BOSTON HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487631
+#EXTINF:-1 tvg-id="US-NBC Sports California" tvg-name="SP - CSN CALIFORNIA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-CALIFORNIA.jpg" group-title="|NA| USA SPORTS",SP - CSN CALIFORNIA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487630
+#EXTINF:-1 tvg-id="US-NBC Sports Chicago" tvg-name="SP - CSN CHICAGO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-CHICAGO.png" group-title="|NA| USA SPORTS",SP - CSN CHICAGO HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487629
+#EXTINF:-1 tvg-id="us.NBC Sports Chicago Plus HD" tvg-name="SP - CSN CHICAGO PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-CHICAGO.png" group-title="|NA| USA SPORTS",SP - CSN CHICAGO PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487628
+#EXTINF:-1 tvg-id="US-NBC Sports Philadelphia" tvg-name="SP - CSN PHILADELPHIA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-PHILADELPHIA.jpg" group-title="|NA| USA SPORTS",SP - CSN PHILADELPHIA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487627
+#EXTINF:-1 tvg-id="us.NBC Sports Philadelphia+" tvg-name="SP - CSN PHILADELPHIA PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-PHILADELPHIA.jpg" group-title="|NA| USA SPORTS",SP - CSN PHILADELPHIA PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487626
+#EXTINF:-1 tvg-id="US-NBC Sports Washington" tvg-name="SP - CSN WASHINGTON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-WASHINGTON.jpg" group-title="|NA| USA SPORTS",SP - CSN WASHINGTON HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487625
+#EXTINF:-1 tvg-id="us.NBC Sports Washington Plus" tvg-name="SP - CSN WASHINGTON PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSN-WASHINGTON.jpg" group-title="|NA| USA SPORTS",SP - CSN WASHINGTON PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487624
+#EXTINF:-1 tvg-id="US-Eleven Sports HD" tvg-name="SP - ELEVEN SPORTS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="|NA| USA SPORTS",SP - ELEVEN SPORTS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487690
+#EXTINF:-1 tvg-id="" tvg-name="SP - FANTASY SPORTS NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FANTASY-SPORTS-NETWORK.png" group-title="|NA| USA SPORTS",SP - FANTASY SPORTS NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487674
+#EXTINF:-1 tvg-id="ca.Fight Network Canada HD" tvg-name="SP - FIGHT NETWORK (CA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/FIGHT-NETWORK.jpg" group-title="|NA| USA SPORTS",SP - FIGHT NETWORK (CA)
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487684
+#EXTINF:-1 tvg-id="us.The Fight Network (United States) SDTV" tvg-name="SP - FIGHT NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FIGHT-NETWORK.jpg" group-title="|NA| USA SPORTS",SP - FIGHT NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487683
+#EXTINF:-1 tvg-id="US| NBC GOLF" tvg-name="SP - NBC GOLF PASS" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/NBC-GOLF-PASS.png" group-title="|NA| USA SPORTS",SP - NBC GOLF PASS
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487682
+#EXTINF:-1 tvg-id="US-FOX Soccer Plus" tvg-name="SP - FOX SOCCER PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SOCCER-PLUS.png" group-title="|NA| USA SPORTS",SP - FOX SOCCER PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487641
+#EXTINF:-1 tvg-id="US-Fox Sports 1" tvg-name="SP - FOX SPORTS 1 USA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-1-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS 1 USA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487776
+#EXTINF:-1 tvg-id="US-Fox Sports 2" tvg-name="SP - FOX SPORTS 2 USA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-2-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS 2 USA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487775
+#EXTINF:-1 tvg-id="US-Fox Sports Arizona" tvg-name="SP - FOX SPORTS ARIZONA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-ARIZONA.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS ARIZONA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487593
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS CINCINNATI" tvg-name="SP - FOX SPORTS CINCINNATI" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-CINCINNATI.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS CINCINNATI
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487592
+#EXTINF:-1 tvg-id="US-Fox Sports Detroit" tvg-name="SP - FOX SPORTS DETROIT" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-DETROIT.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS DETROIT
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487591
+#EXTINF:-1 tvg-id="US-Fox Sports Detroit" tvg-name="SP - FOX SPORTS DETROIT HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-DETROIT.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS DETROIT HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487590
+#EXTINF:-1 tvg-id="US-Fox Sports Florida" tvg-name="SP - FOX SPORTS FLORIDA" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-FLORIDA.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS FLORIDA
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487589
+#EXTINF:-1 tvg-id="US-Fox Sports Florida" tvg-name="SP - FOX SPORTS FLORIDA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-FLORIDA.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS FLORIDA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487588
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS MID WEST" tvg-name="SP - FOX SPORTS MID WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-MIDWEST-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS MID WEST
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487587
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS NORTH ALT" tvg-name="SP - FOX SPORTS NORTH ALT" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-NORTH-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS NORTH ALT
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487586
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS NORTH HD" tvg-name="SP - FOX SPORTS NORTH HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-NORTH-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS NORTH HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487585
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS OHIO" tvg-name="SP - FOX SPORTS OHIO" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-OHIO-HD.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS OHIO
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487584
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS OKLAHOMA" tvg-name="SP - FOX SPORTS OKLAHOMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-OKLAHOMA-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS OKLAHOMA
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487583
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS PRIME HD" tvg-name="SP - FOX SPORTS PRIME HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-PRIME-TICKET.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS PRIME HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487582
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS PRIME TICKET" tvg-name="SP - FOX SPORTS PRIME TICKET" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-PRIME-TICKET.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS PRIME TICKET
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487581
+#EXTINF:-1 tvg-id="FoxSportsPrimeTicket.us" tvg-name="SP - FOX SPORTS PRIME TICKET HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-PRIME-TICKET.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS PRIME TICKET HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487773
+#EXTINF:-1 tvg-id="FoxSportsRacing.ca" tvg-name="SP - FOX SPORTS RACING" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-RACING.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS RACING
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487774
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SAN DIEGO" tvg-name="SP - FOX SPORTS SAN DIEGO" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SANDIEGO.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SAN DIEGO
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487580
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SAN DIEGO HD" tvg-name="SP - FOX SPORTS SAN DIEGO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SANDIEGO.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SAN DIEGO HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487579
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTH" tvg-name="SP - FOX SPORTS SOUTH" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTH-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTH
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487578
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTH HD" tvg-name="SP - FOX SPORTS SOUTH HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTH-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTH HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487575
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTH WEST" tvg-name="SP - FOX SPORTS SOUTH WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTHWEST.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTH WEST
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487573
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTHEAST" tvg-name="SP - FOX SPORTS SOUTHEAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTHEAST.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTHEAST
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487577
+#EXTINF:-1 tvg-id="US-Fox Sports Southeast" tvg-name="SP - FOX SPORTS SOUTHEAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTHEAST.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTHEAST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487576
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTHWEST" tvg-name="SP - FOX SPORTS SOUTHWEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTHWEST.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTHWEST
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487574
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTHWEST HD" tvg-name="SP - FOX SPORTS SOUTHWEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTHWEST.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTHWEST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487572
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SOUTHWEST PLUS" tvg-name="SP - FOX SPORTS SOUTHWEST PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SOUTHWEST.jpeg" group-title="|NA| USA SPORTS",SP - FOX SPORTS SOUTHWEST PLUS
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487571
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SUN" tvg-name="SP - FOX SPORTS SUN" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SUN.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS SUN
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487570
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS SUN HD" tvg-name="SP - FOX SPORTS SUN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-SUN.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS SUN HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487569
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS TENNESSEE" tvg-name="SP - FOX SPORTS TENNESSEE" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-TENNESSEE.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS TENNESSEE
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487568
+#EXTINF:-1 tvg-id="FoxSportsWest.us" tvg-name="SP - FOX SPORTS WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-WEST-HD.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS WEST
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487567
+#EXTINF:-1 tvg-id="US-Fox Sports West" tvg-name="SP - FOX SPORTS WEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-WEST-HD.jpg" group-title="|NA| USA SPORTS",SP - FOX SPORTS WEST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487772
+#EXTINF:-1 tvg-id="ENG| FOX SPORTS WISCONSIN HD" tvg-name="SP - FOX SPORTS WISCONSIN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS-WISCONSIN-HD.png" group-title="|NA| USA SPORTS",SP - FOX SPORTS WISCONSIN HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487566
+#EXTINF:-1 tvg-id="" tvg-name="SP - FUBO SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/fubo-sports.png" group-title="|NA| USA SPORTS",SP - FUBO SPORTS 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826144
+#EXTINF:-1 tvg-id="" tvg-name="SP - FUBO SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/fubo-sports.png" group-title="|NA| USA SPORTS",SP - FUBO SPORTS 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826143
+#EXTINF:-1 tvg-id="" tvg-name="SP - FUBO SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/fubo-sports.png" group-title="|NA| USA SPORTS",SP - FUBO SPORTS 3 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826142
+#EXTINF:-1 tvg-id="" tvg-name="SP - FUBO SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/fubo-sports.png" group-title="|NA| USA SPORTS",SP - FUBO SPORTS 4 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826141
+#EXTINF:-1 tvg-id="" tvg-name="SP - FUBO SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/fubo-sports.png" group-title="|NA| USA SPORTS",SP - FUBO SPORTS 5 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826140
+#EXTINF:-1 tvg-id="us.Ginx eSports TV Canada" tvg-name="SP - GINX ESPORTS TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ginxesportstv.png" group-title="|NA| USA SPORTS",SP - GINX ESPORTS TV
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487673
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALTITUDE SPORTS 2 HD" tvg-logo="" group-title="|NA| USA SPORTS",SP - ALTITUDE SPORTS 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826906
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALTITUDE SPORTS HD" tvg-logo="" group-title="|NA| USA SPORTS",SP - ALTITUDE SPORTS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/826907
+#EXTINF:-1 tvg-id="US-Golf Channel USA" tvg-name="SP - GOLF CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GOLF-CHANNEL.png" group-title="|NA| USA SPORTS",SP - GOLF CHANNEL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487770
+#EXTINF:-1 tvg-id="Horse  Country TV" tvg-name="SP - HORSE & COUNTRY" tvg-logo="http://logo.protv.cc/picons-dino/logos/horseandcountrytv.png" group-title="|NA| USA SPORTS",SP - HORSE & COUNTRY
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487640
+#EXTINF:-1 tvg-id="" tvg-name="SP - HPITV EAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hpitv.png" group-title="|NA| USA SPORTS",SP - HPITV EAST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487637
+#EXTINF:-1 tvg-id="HPItv.ca" tvg-name="SP - HPITV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hpitv.png" group-title="|NA| USA SPORTS",SP - HPITV HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487636
+#EXTINF:-1 tvg-id="HPItvInternational.ca" tvg-name="SP - HPITV INTERNATIONAL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hpitv.png" group-title="|NA| USA SPORTS",SP - HPITV INTERNATIONAL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487639
+#EXTINF:-1 tvg-id="" tvg-name="SP - HPITV WEST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hpitv.png" group-title="|NA| USA SPORTS",SP - HPITV WEST HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487638
+#EXTINF:-1 tvg-id="" tvg-name="SP - LEAFS NATION NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/leafsnation.png" group-title="|NA| USA SPORTS",SP - LEAFS NATION NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487691
+#EXTINF:-1 tvg-id="US-Longhorn Network" tvg-name="SP - LONGHORN NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LONGHORN-NETWORK-HD.jpg" group-title="|NA| USA SPORTS",SP - LONGHORN NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487672
+#EXTINF:-1 tvg-id="" tvg-name="SP - MARQUEE SPORTS NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/marquee.png" group-title="|NA| USA SPORTS",SP - MARQUEE SPORTS NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/736858
+#EXTINF:-1 tvg-id="US-MavTV" tvg-name="SP - MAV TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MAV-TV-HD.jpg" group-title="|NA| USA SPORTS",SP - MAV TV HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487671
+#EXTINF:-1 tvg-id="US-MLB Network" tvg-name="SP - MLB NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MLB-NETWORK-HD.png" group-title="|NA| USA SPORTS",SP - MLB NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487766
+#EXTINF:-1 tvg-id="MLB Strike Zone - MLBSZ1" tvg-name="SP - MLB STRIKE ZONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MLB-STRIKE-ZONE.jpg" group-title="|NA| USA SPORTS",SP - MLB STRIKE ZONE HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487765
+#EXTINF:-1 tvg-id="US-Motor Trend" tvg-name="SP - MOTOR TREND HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MOTORTREND-HD.png" group-title="|NA| USA SPORTS",SP - MOTOR TREND HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487670
+#EXTINF:-1 tvg-id="us.MSG 2" tvg-name="SP - MSG 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MSG-2.jpg" group-title="|NA| USA SPORTS",SP - MSG 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487654
+#EXTINF:-1 tvg-id="MadisonSquareGardenPlus2.us" tvg-name="SP - MSG 2 PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MSG-PLUS-HD.jpeg" group-title="|NA| USA SPORTS",SP - MSG 2 PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487653
+#EXTINF:-1 tvg-id="MSGPL MSG Plus Zone 1" tvg-name="SP - MSG HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MSG.png" group-title="|NA| USA SPORTS",SP - MSG HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487656
+#EXTINF:-1 tvg-id="MSGPLHD MSG Plus HD Zone 1" tvg-name="SP - MSG PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MSG-PLUS-HD.jpeg" group-title="|NA| USA SPORTS",SP - MSG PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487655
+#EXTINF:-1 tvg-id="us.Nautical Channel (US)" tvg-name="SP - NAUTICAL CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NAUTICAL-CHANNEL-HD.png" group-title="|NA| USA SPORTS",SP - NAUTICAL CHANNEL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487669
+#EXTINF:-1 tvg-id="" tvg-name="SP - GOL TV" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/GOL-TV.png" group-title="|NA| USA SPORTS",SP - GOL TV
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/825507
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="SP - BIG TEN NETWORK OVERFLOW" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/Big-Ten-Network.png" group-title="|NA| USA SPORTS",SP - BIG TEN NETWORK OVERFLOW
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/825508
+#EXTINF:-1 tvg-id="US-NBA TV USA" tvg-name="SP - NBA TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nbatv.png" group-title="|NA| USA SPORTS",SP - NBA TV HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487762
+#EXTINF:-1 tvg-id="ca.NBA TV Canada" tvg-name="SP - NBA TV (CA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/nbatv.png" group-title="|NA| USA SPORTS",SP - NBA TV (CA)
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487763
+#EXTINF:-1 tvg-id="US| NBC GOLF" tvg-name="SP - NBC GOLF HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NBC-GOLF.png" group-title="|NA| USA SPORTS",SP - NBC GOLF HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487769
+#EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-name="SP - NESN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nesn.png" group-title="|NA| USA SPORTS",SP - NESN HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487668
+#EXTINF:-1 tvg-id="NewEnglandSportsNetworkPlus.us" tvg-name="SP - NESN PLUS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NESN-PLUS.png" group-title="|NA| USA SPORTS",SP - NESN PLUS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487667
+#EXTINF:-1 tvg-id="US-NFL Red Zone" tvg-name="SP - NFL REDZONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NFL-REDZONE.png" group-title="|NA| USA SPORTS",SP - NFL REDZONE HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487757
+#EXTINF:-1 tvg-id="US-NFL Network" tvg-name="SP - NFL NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NFL-NETWORK.jpg" group-title="|NA| USA SPORTS",SP - NFL NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487758
+#EXTINF:-1 tvg-id="US-NHL Network USA" tvg-name="SP - NHL NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NHL-NETWORK.jpg" group-title="|NA| USA SPORTS",SP - NHL NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487724
+#EXTINF:-1 tvg-id="OlympicChannel.us" tvg-name="SP - OLYMPIC CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/OLYMPIC-CHANNEL.png" group-title="|NA| USA SPORTS",SP - OLYMPIC CHANNEL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/551773
+#EXTINF:-1 tvg-id="US-Outdoor Channel US" tvg-name="SP - OUTDOOR CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/OUTDOOR-CHANNEL-HD.jpg" group-title="|NA| USA SPORTS",SP - OUTDOOR CHANNEL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487666
+#EXTINF:-1 tvg-id="US-Outside Television" tvg-name="SP - OUTSIDE TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/outsidetv.png" group-title="|NA| USA SPORTS",SP - OUTSIDE TV HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487665
+#EXTINF:-1 tvg-id="US-Pac-12 Arizona" tvg-name="SP - PAC 12 ARIZONA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/pacarizona.png" group-title="|NA| USA SPORTS",SP - PAC 12 ARIZONA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487651
+#EXTINF:-1 tvg-id="US-Pac-12 Bay Area" tvg-name="SP - PAC 12 BAY AREA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/pacbay.png" group-title="|NA| USA SPORTS",SP - PAC 12 BAY AREA HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487650
+#EXTINF:-1 tvg-id="US-Pac-12 Los Angeles" tvg-name="SP - PAC 12 LOS ANGELES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/paclos.png" group-title="|NA| USA SPORTS",SP - PAC 12 LOS ANGELES HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487649
+#EXTINF:-1 tvg-id="US-Pac-12 Mountain" tvg-name="SP - PAC 12 MOUNTAIN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/pacmountain.png" group-title="|NA| USA SPORTS",SP - PAC 12 MOUNTAIN HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487648
+#EXTINF:-1 tvg-id="US-Pac-12 Network" tvg-name="SP - PAC 12 NATIONAL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PAC-12.jpg" group-title="|NA| USA SPORTS",SP - PAC 12 NATIONAL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487652
+#EXTINF:-1 tvg-id="US-Pac-12 Oregon" tvg-name="SP - PAC 12 OREGON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/pacoregon.png" group-title="|NA| USA SPORTS",SP - PAC 12 OREGON HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487647
+#EXTINF:-1 tvg-id="US-Pac-12 Washington" tvg-name="SP - PAC 12 WASHINGTON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/pacwashington.png" group-title="|NA| USA SPORTS",SP - PAC 12 WASHINGTON HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487646
+#EXTINF:-1 tvg-id="RIDETV Ride TV" tvg-name="SP - RIDE TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RIDE-TV-HD.jpg" group-title="|NA| USA SPORTS",SP - RIDE TV HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487635
+#EXTINF:-1 tvg-id="US-SEC Network" tvg-name="SP - SEC NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SEC-NETWORK-HD.jpg" group-title="|NA| USA SPORTS",SP - SEC NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487664
+#EXTINF:-1 tvg-id="" tvg-name="SP - CBS SPORTS GOLAZO" tvg-logo="" group-title="|NA| USA SPORTS",SP - CBS SPORTS GOLAZO
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487632
+#EXTINF:-1 tvg-id="" tvg-name="SP - SMASH SPORTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/smashtv.png" group-title="|NA| USA SPORTS",SP - SMASH SPORTS FHD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487663
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="SP - SPECTRUM SPORTSNET" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPECTRUM-SPORTSNET.jpg" group-title="|NA| USA SPORTS",SP - SPECTRUM SPORTSNET
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487660
+#EXTINF:-1 tvg-id="US-Sportsman Channel" tvg-name="SP - SPORTSMAN CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSMAN-CHANNEL.jpg" group-title="|NA| USA SPORTS",SP - SPORTSMAN CHANNEL HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487662
+#EXTINF:-1 tvg-id="" tvg-name="SP - SPORTSNET LA DODGERS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-LA-DODGERS.jpg" group-title="|NA| USA SPORTS",SP - SPORTSNET LA DODGERS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487764
+#EXTINF:-1 tvg-id="SPECSN Spectrum SportsNet HD" tvg-name="SP - SPORTSNET LA LAKERS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET-LA-LAKERS.jpg" group-title="|NA| USA SPORTS",SP - SPORTSNET LA LAKERS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487759
+#EXTINF:-1 tvg-id="us.SNY Sportsnet NY" tvg-name="SP - SPORTSNET NEW YORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPORTSNET.jpg" group-title="|NA| USA SPORTS",SP - SPORTSNET NEW YORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487661
+#EXTINF:-1 tvg-id="us.Stadium 1" tvg-name="SP - STADIUM 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/stadium.png" group-title="|NA| USA SPORTS",SP - STADIUM 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487644
+#EXTINF:-1 tvg-id="us.Stadium 2" tvg-name="SP - STADIUM 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/stadium.png" group-title="|NA| USA SPORTS",SP - STADIUM 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487643
+#EXTINF:-1 tvg-id="us.Stadium 3" tvg-name="SP - STADIUM 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/stadium.png" group-title="|NA| USA SPORTS",SP - STADIUM 3 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487642
+#EXTINF:-1 tvg-id="US-Stadium" tvg-name="SP - STADIUM HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/stadium.png" group-title="|NA| USA SPORTS",SP - STADIUM HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487645
+#EXTINF:-1 tvg-id="US-The Tennis Channel" tvg-name="SP - TENNIS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",SP - TENNIS HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487689
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487688
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487687
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 3 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487686
+#EXTINF:-1 tvg-id="US-TVG - Television Games Network" tvg-name="SP - TVG NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/TVG-NETWORK.png" group-title="|NA| USA SPORTS",SP - TVG NETWORK
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487634
+#EXTINF:-1 tvg-id="US-TVG 2 - Horse Racing" tvg-name="SP - TVG NETWORK 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/TVG-NETWORK-2.png" group-title="|NA| USA SPORTS",SP - TVG NETWORK 2
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487633
+#EXTINF:-1 tvg-id="" tvg-name="SP - ROOT SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/ROOT-SPORTS.png" group-title="|NA| USA SPORTS",SP - ROOT SPORTS
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/714209
+#EXTINF:-1 tvg-id="ca.Wild TV HD" tvg-name="SP - WILD TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/wildtv.png" group-title="|NA| USA SPORTS",SP - WILD TV
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487659
+#EXTINF:-1 tvg-id="" tvg-name="SP - SPEEDVISION" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/SPEEDVISION.png" group-title="|NA| USA SPORTS",SP - SPEEDVISION
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/942131
+#EXTINF:-1 tvg-id="" tvg-name="SP - UFC NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ufc.png" group-title="|NA| USA SPORTS",SP - UFC NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487680
+#EXTINF:-1 tvg-id="US-WFN-World Fishing Network HD" tvg-name="SP - WORLD FISHING NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WORLD-FISHING-NETWORK-HD.jpg" group-title="|NA| USA SPORTS",SP - WORLD FISHING NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487658
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="SP - WWE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WWE.png" group-title="|NA| USA SPORTS",SP - WWE HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487679
+#EXTINF:-1 tvg-id="US| YES NETWORK HD" tvg-name="SP - YES NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/YES-NETWORK.png" group-title="|NA| USA SPORTS",SP - YES NETWORK HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487657
+#EXTINF:-1 tvg-id="" tvg-name="SP - GEO SUPER HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GEO-SUPER.png" group-title="|NA| USA SPORTS",SP - GEO SUPER HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487795
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SP - SONY SIX HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SONY-SIX.png" group-title="|NA| USA SPORTS",SP - SONY SIX HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487791
+#EXTINF:-1 tvg-id="StarSports1.cn" tvg-name="SP - STAR SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="|NA| USA SPORTS",SP - STAR SPORTS 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487793
+#EXTINF:-1 tvg-id="StarSports2.cn" tvg-name="SP - STAR SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-2-HD.jpeg" group-title="|NA| USA SPORTS",SP - STAR SPORTS 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487792
+#EXTINF:-1 tvg-id="" tvg-name="SP - BILLIARD TV" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BILLIARD-TV.png" group-title="|NA| USA SPORTS",SP - BILLIARD TV
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/803920
+#EXTINF:-1 tvg-id="PokerGo.us" tvg-name="SP - POKERGO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/POKERGO-TV.png" group-title="|NA| USA SPORTS",SP - POKERGO HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/956083
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SP - TEN 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEN-1-HD.png" group-title="|NA| USA SPORTS",SP - TEN 1 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487790
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SP - TEN 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEN-2-HD.png" group-title="|NA| USA SPORTS",SP - TEN 2 HD
+http://20045-living.ott-cdn.me:80/44c8629490c7/f84445bd96bb/487789
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SP - TEN 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEN-3-HD.jpeg" group-title="|NA| USA SPORTS",SP - TEN 3 HD
