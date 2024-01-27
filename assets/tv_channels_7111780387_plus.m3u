@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="CR - MAX SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/maxsport1.png" group-title="|BLN| CROATIA",CR - MAX SPORT 1 FHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/753444
+#EXTINF:-1 tvg-id="MAXSport2.bg" tvg-name="CR - MAX SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/MAX-SPORT-2-HD.png" group-title="|BLN| CROATIA",CR - MAX SPORT 2 FHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/753445
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport1hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 1 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262829
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport2hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 2 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262830
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport3-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 3 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262831
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport4-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 4 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262832
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport5-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 5 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262833
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 6 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport6-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 6 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262834
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 7 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/planetsport1.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 7 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/263156
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 8 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/planetsport2.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 8 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/263157
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 9 UHD" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-9-HR.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 9 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/663948
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 10 UHD" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-10-HR.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 10 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/663949
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sportklub1.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 1 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262835
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sportklub2.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 2 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262836
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sportklub3.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 3 UHD
+http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262837
 #EXTINF:-1 tvg-id="Htv1.hr" tvg-name="CR - HRT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hrttv1.png" group-title="|BLN| CROATIA",CR - HRT 1 UHD
 http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262753
 #EXTINF:-1 tvg-id="Htv1.hr" tvg-name="CR - HRT 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/hrttv1.png" group-title="|BLN| CROATIA",CR - HRT 1
@@ -135,36 +165,6 @@ http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/263079
 http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/263358
 #EXTINF:-1 tvg-id="AMC.hr" tvg-name="RS - AMC UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/amchd.png" group-title="|BLN| SERBIA",RS - AMC UHD
 http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262892
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport1hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 1 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262829
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport2hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 2 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262830
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport3-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 3 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262831
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport4-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 4 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262832
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport5-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 5 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262833
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 6 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arenasport6-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 6 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262834
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 7 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/planetsport1.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 7 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/263156
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 8 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/planetsport2.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 8 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/263157
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 9 UHD" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-9-HR.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 9 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/663948
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 10 UHD" tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-10-HR.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 10 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/663949
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sportklub1.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 1 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262835
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sportklub2.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 2 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262836
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sportklub3.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 3 UHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262837
-#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="CR - MAX SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/maxsport1.png" group-title="|BLN| CROATIA",CR - MAX SPORT 1 FHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/753444
-#EXTINF:-1 tvg-id="MAXSport2.bg" tvg-name="CR - MAX SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/MAX-SPORT-2-HD.png" group-title="|BLN| CROATIA",CR - MAX SPORT 2 FHD
-http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/753445
 #EXTINF:-1 tvg-id="Cinemax.rs" tvg-name="RS - CINEMAX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemaxhd.png" group-title="|BLN| SERBIA",RS - CINEMAX UHD
 http://line.rs4ott.com:80/44c8629490c7/f84445bd96bb/262915
 #EXTINF:-1 tvg-id="Cinemax2.rs" tvg-name="RS - CINEMAX 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemax2hd.png" group-title="|BLN| SERBIA",RS - CINEMAX 2 UHD
