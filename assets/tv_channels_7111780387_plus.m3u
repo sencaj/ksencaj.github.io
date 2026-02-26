@@ -1,413 +1,460 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="CR - MAX SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/maxsport1.png" group-title="|BLN| CROATIA",CR - MAX SPORT 1 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/753444
-#EXTINF:-1 tvg-id="MAXSport2.bg" tvg-name="CR - MAX SPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/MAX-SPORT-2-HD.png" group-title="|BLN| CROATIA",CR - MAX SPORT 2 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/753445
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport1hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262829
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport2hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262830
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport3-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 3 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262831
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 4 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport4-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 4 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262832
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 5 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport5-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 5 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262833
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 6 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport6-drukahehip.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 6 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262834
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 7 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/planetsport1.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 7 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263156
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 8 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/planetsport2.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 8 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263157
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 9 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-9-HR.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 9 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/663948
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| ARENA SPORT 10 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-10-HR.png" group-title="|BLN| SPORTS",MK: HR| ARENA SPORT 10 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/663949
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub1.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262835
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub2.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262836
-#EXTINF:-1 tvg-id="" tvg-name="MK: HR| SPORT KLUB 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub3.png" group-title="|BLN| SPORTS",MK: HR| SPORT KLUB 3 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/262837
+#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="CR - MAX SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/maxsport1.png" group-title="|BLN| SPORTS",CR - MAX SPORT 1 FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/753444
+#EXTINF:-1 tvg-id="MAXSport2.bg" tvg-name="CR - MAX SPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/MAX-SPORT-2-HD.png" group-title="|BLN| SPORTS",CR - MAX SPORT 2 FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/753445
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport1hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262829
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport2hd-trobubislu.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262830
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport3-drukahehip.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 3 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262831
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 4 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport4-drukahehip.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 4 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262832
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 5 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport5-drukahehip.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 5 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262833
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 6 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport6-drukahehip.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 6 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262834
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 7 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/planetsport1.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 7 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263156
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 8 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/planetsport2.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 8 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263157
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 9 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-9-HR.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 9 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/663948
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - ARENA SPORT 10 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-10-HR.png" group-title="|BLN| SPORTS",MK: HR - ARENA SPORT 10 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/663949
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - SPORT KLUB 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub1.png" group-title="|BLN| SPORTS",MK: HR - SPORT KLUB 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262835
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - SPORT KLUB 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub3.png" group-title="|BLN| SPORTS",MK: HR - SPORT KLUB 3 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262837
+#EXTINF:-1 tvg-id="" tvg-name="MK: HR - SPORT KLUB 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub2.png" group-title="|BLN| SPORTS",MK: HR - SPORT KLUB 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/262836
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 1 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-1.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 1 PREMIUM HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/674862
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 2 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-2.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 2 PREMIUM HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/674863
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 3 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-3.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 3 PREMIUM HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/674864
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport1hd.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263161
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 1" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport1.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 1
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263162
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport2hd-trobubislu.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263163
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 2" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport2.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 2
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263164
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport3.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 3 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263165
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 3" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport3.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 3
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263166
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 4 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport4.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 4 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263167
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 4" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport4.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 4
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263168
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 5" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport5.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 5
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/263169
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 6 UHD" tvg-logo="http://103.176.90.118/picons/logos/arenasport6-drukahehip.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 6 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/860052
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 7 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-7-HR.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 7 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/860053
-#EXTINF:-1 tvg-id="" tvg-name="MK: RS| ARENA SPORT 8 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-8-HR.png" group-title="|BLN| SPORTS",MK: RS| ARENA SPORT 8 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/860054
 
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - EUROSPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/eurosport2hd.png" group-title="|BLN| SPORTS",MK: RS - EUROSPORT 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263155
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 1 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-1.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 1 PREMIUM HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/674862
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 2 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-2.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 2 PREMIUM HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/674863
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 3 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-3.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 3 PREMIUM HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/674864
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS -  ARENA SPORT 4 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1910881.png" group-title="|BLN| SPORTS",MK: RS -  ARENA SPORT 4 PREMIUM HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1320103
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS -  ARENA SPORT 5 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1910882.png" group-title="|BLN| SPORTS",MK: RS -  ARENA SPORT 5 PREMIUM HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1320102
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA TENIS" tvg-logo="http://51.158.145.100/picons/logos/logos/1940257.png" group-title="|BLN| SPORTS",MK: RS - ARENA TENIS
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1320104
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS -  ARENA ADRENALIN HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1900187.png" group-title="|BLN| SPORTS",MK: RS -  ARENA ADRENALIN HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1320105
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport1hd.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263161
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 1" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport1.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 1
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263162
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport2hd-trobubislu.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263163
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 2" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport2.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 2
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263164
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport3.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 3 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263165
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 3" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport3.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 3
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263166
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 4 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport4.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 4 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263167
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 4" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport4.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 4
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263168
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 5" tvg-logo="http://103.176.90.118/picons-dino/logos/arenasport5.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 5
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263169
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 6 UHD" tvg-logo="http://103.176.90.118/picons/logos/arenasport6-drukahehip.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 6 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/860052
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 7 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-7-HR.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 7 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/860053
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - ARENA SPORT 8 UHD" tvg-logo="http://103.176.90.118/picons/logos/ARENA-SPORT-8-HR.png" group-title="|BLN| SPORTS",MK: RS - ARENA SPORT 8 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/860054
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklubhd.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263170
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub1.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263171
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub2.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263172
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB 3 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub3.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB 3 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263173
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB 4" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB 4
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263174
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB 5" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB 5
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263175
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB 6" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklub.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB 6
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263176
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB GOLF" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklubgolf.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB GOLF
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263177
+#EXTINF:-1 tvg-id="" tvg-name="MK: RS - SPORT KLUB SPECIAL" tvg-logo="http://103.176.90.118/picons-dino/logos/sportklubhd.png" group-title="|BLN| SPORTS",MK: RS - SPORT KLUB SPECIAL
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/263178
 #EXTINF:-1 tvg-id="US-ESPN News" tvg-name="SP - ESPN NEWS HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ESPN-NEWS-HD.png" group-title="|NA| USA SPORTS",SP - ESPN NEWS HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/487783
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/487783
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="SP - ESPN 1 HD" tvg-logo="https://logo.protv.cc/piconsnew/espn1.png" group-title="|NA| USA SPORTS",SP - ESPN 1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/487782
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/487782
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SP - ESPN 2 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/laz.espn2hd.png" group-title="|NA| USA SPORTS",SP - ESPN 2 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/487781
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/487781
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="SP - ESPN (ACCN) HD" tvg-logo="https://logo.protv.cc/piconsnew/espn.png" group-title="|NA| USA SPORTS",SP - ESPN (ACCN) HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/487777
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/487777
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="SP - ESPN U HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ESPN-U-HD.png" group-title="|NA| USA SPORTS",SP - ESPN U HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/487778
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/487778
 #EXTINF:-1 tvg-id="ESPNGoalLine.us" tvg-name="SP - ESPN GOALINE HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ESPN-GOAL-LINE.jpg" group-title="|NA| USA SPORTS",SP - ESPN GOALINE HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/487779
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/487779
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### DE SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/logos/GERMANY.png" group-title="|DE| SPORT",##### DE SPORTS #####
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699787
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE - DAZN BAR 1" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-1.png" group-title="|DE| SPORT",DE - DAZN BAR 1
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1145575
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE - DAZN BAR 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-1.png" group-title="|DE| SPORT",DE - DAZN BAR 1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699786
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE - DAZN BAR 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-1.png" group-title="|DE| SPORT",DE - DAZN BAR 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699785
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DE - DAZN BAR 2" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-2.png" group-title="|DE| SPORT",DE - DAZN BAR 2
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1145576
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DE - DAZN BAR 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-2.png" group-title="|DE| SPORT",DE - DAZN BAR 2 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699784
-#EXTINF:-1 tvg-id="DAZN.de" tvg-name="DE - DAZN BAR 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-2.png" group-title="|DE| SPORT",DE - DAZN BAR 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699783
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="DE - SKY SPORT NEWS HD" tvg-logo="https://logo.protv.cc/piconsnew/skysportnews.png" group-title="|DE| SPORT",DE - SKY SPORT NEWS HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699782
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="DE - SKY SPORT NEWS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportnews.png" group-title="|DE| SPORT",DE - SKY SPORT NEWS UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699781
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE - SKY SPORTS F1 HD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|DE| SPORT",DE - SKY SPORTS F1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699780
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE - SKY SPORTS F1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|DE| SPORT",DE - SKY SPORTS F1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699779
-#EXTINF:-1 tvg-id="FCBayernTV.de" tvg-name="DE - FC BAYERN TV HD" tvg-logo="https://logo.protv.cc/piconsnew/fcbayerntv.png" group-title="|DE| SPORT",DE - FC BAYERN TV HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699778
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE - SKY SPORT 1 HD" tvg-logo="https://logo.protv.cc/piconsnew/skysport1.png" group-title="|DE| SPORT",DE - SKY SPORT 1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699777
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE - SKY SPORT 1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysport1.png" group-title="|DE| SPORT",DE - SKY SPORT 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699776
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE - SKY SPORT 2 HD" tvg-logo="https://logo.protv.cc/piconsnew/skysport2.png" group-title="|DE| SPORT",DE - SKY SPORT 2 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699775
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE - SKY SPORT 2 UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysport2.png" group-title="|DE| SPORT",DE - SKY SPORT 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699774
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE - SKY SPORT 3 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport3.png" group-title="|DE| SPORT",DE - SKY SPORT 3 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699753
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE - SKY SPORT 3 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport3.png" group-title="|DE| SPORT",DE - SKY SPORT 3 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699752
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE - SKY SPORT 4 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport4.png" group-title="|DE| SPORT",DE - SKY SPORT 4 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699751
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE - SKY SPORT 4 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport4.png" group-title="|DE| SPORT",DE - SKY SPORT 4 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699750
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE - SKY SPORT 5 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport5.png" group-title="|DE| SPORT",DE - SKY SPORT 5 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699749
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE - SKY SPORT 5 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport5.png" group-title="|DE| SPORT",DE - SKY SPORT 5 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699748
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE - SKY SPORT 6 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport6.png" group-title="|DE| SPORT",DE - SKY SPORT 6 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699747
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE - SKY SPORT 6 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport6.png" group-title="|DE| SPORT",DE - SKY SPORT 6 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699746
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="DE - SKY SPORT 7 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport7.png" group-title="|DE| SPORT",DE - SKY SPORT 7 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699745
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="DE - SKY SPORT 7 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport7.png" group-title="|DE| SPORT",DE - SKY SPORT 7 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699744
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="DE - SKY SPORT 8 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport8.png" group-title="|DE| SPORT",DE - SKY SPORT 8 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699743
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="DE - SKY SPORT 8 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport8.png" group-title="|DE| SPORT",DE - SKY SPORT 8 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699742
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="DE - SKY SPORT 9 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport9.png" group-title="|DE| SPORT",DE - SKY SPORT 9 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699741
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="DE - SKY SPORT 9 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport9.png" group-title="|DE| SPORT",DE - SKY SPORT 9 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699740
-#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE - SKY SPORT 10 HD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport10.png" group-title="|DE| SPORT",DE - SKY SPORT 10 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699739
-#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE - SKY SPORT 10 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport10.png" group-title="|DE| SPORT",DE - SKY SPORT 10 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699738
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT 12 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport12hd.png" group-title="|DE| SPORT",DE - SKY SPORT 12 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699737
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT 13 UHD [EVENTS-ONLY]" tvg-logo="https://logo.protv.cc/piconsnew/skysport13hd.png" group-title="|DE| SPORT",DE - SKY SPORT 13 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699736
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT 14 UHD [EVENTS-ONLY]" tvg-logo="http://103.176.90.118/picons-dino/logos/skysport14hd.png" group-title="|DE| SPORT",DE - SKY SPORT 14 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699735
-#EXTINF:-1 tvg-id="SkySportAustria5.at" tvg-name="DE - SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)" tvg-logo="https://logo.protv.cc/piconsnew/skysportaustria5hd.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/753606
-#EXTINF:-1 tvg-id="SkySportAustria6.at" tvg-name="DE - SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)" tvg-logo="https://logo.protv.cc/piconsnew/skysportaustria6hd.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/753607
-#EXTINF:-1 tvg-id="SkySportAustria7.at" tvg-name="DE - SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)" tvg-logo="https://logo.protv.cc/piconsnew/skysportaustria7hd.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/753608
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE - SKY BUNDESLIGA 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-BUNDESLIGA-1.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699773
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE - SKY BUNDESLIGA 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-BUNDESLIGA-1.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699772
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE - SKY BUNDESLIGA 2 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-2-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 2 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699771
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE - SKY BUNDESLIGA 2 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-2-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 2 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699770
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE - SKY BUNDESLIGA 3 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-3-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 3 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699769
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE - SKY BUNDESLIGA 3 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-3-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 3 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699768
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE - SKY BUNDESLIGA 4 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 4 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699767
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE - SKY BUNDESLIGA 4 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 4 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699766
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE - SKY BUNDESLIGA 5 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-5-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 5 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699765
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE - SKY BUNDESLIGA 5 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-5-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 5 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699764
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE - SKY BUNDESLIGA 6 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 6 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699763
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE - SKY BUNDESLIGA 6 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 6 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699762
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE - SKY BUNDESLIGA 7 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 7 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699761
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE - SKY BUNDESLIGA 7 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 7 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699760
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE - SKY BUNDESLIGA 8 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 8 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699759
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE - SKY BUNDESLIGA 8 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 8 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699758
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="DE - SKY BUNDESLIGA 9 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-9-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 9 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699757
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="DE - SKY BUNDESLIGA 9 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-9-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 9 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699756
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="DE - SKY BUNDESLIGA 10 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 10 HD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699755
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="DE - SKY BUNDESLIGA 10 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 10 UHD [EVENTS-ONLY]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699754
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT TOP EVENT FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysporttopevent.png" group-title="|DE| SPORT",DE - SKY SPORT TOP EVENT FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/750144
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT TENNIS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysporttennis.png" group-title="|DE| SPORT",DE - SKY SPORT TENNIS FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/750143
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT PREMIER LEAGUE FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportpremierleague.png" group-title="|DE| SPORT",DE - SKY SPORT PREMIER LEAGUE FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/750142
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT MIX FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportmix.png" group-title="|DE| SPORT",DE - SKY SPORT MIX FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/750141
-#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT GOLF FHD" tvg-logo="http://103.176.90.118/piconsnew/skysportgolf.png" group-title="|DE| SPORT",DE - SKY SPORT GOLF FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/992139
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE - EUROSPORT 1 HD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|DE| SPORT",DE - EUROSPORT 1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699734
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE - EUROSPORT 1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|DE| SPORT",DE - EUROSPORT 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699733
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE - EUROSPORT 2 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/EUROSPORT-2.png" group-title="|DE| SPORT",DE - EUROSPORT 2 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699732
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE - EUROSPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/EUROSPORT-2.png" group-title="|DE| SPORT",DE - EUROSPORT 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699731
-#EXTINF:-1 tvg-id="" tvg-name="DE - EUROSPORT 2 XTRA HD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2xtra.png" group-title="|DE| SPORT",DE - EUROSPORT 2 XTRA HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699730
-#EXTINF:-1 tvg-id="" tvg-name="DE - EUROSPORT 2XTRA UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2xtra.png" group-title="|DE| SPORT",DE - EUROSPORT 2XTRA UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699729
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE - SPORT1 HD" tvg-logo="https://logo.protv.cc/piconsnew/sport1.png" group-title="|DE| SPORT",DE - SPORT1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699728
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE - SPORT1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/sport1.png" group-title="|DE| SPORT",DE - SPORT1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699727
-#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="DE - SPORT1+ UHD UHD" tvg-logo="https://logo.protv.cc/piconsnew/sport1plus.png" group-title="|DE| SPORT",DE - SPORT1+ UHD UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699726
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE - SPORTDIGITAL FUSSBALL UHD" tvg-logo="https://logo.protv.cc/piconsnew/sportdigitalfussball.png" group-title="|DE| SPORT",DE - SPORTDIGITAL FUSSBALL UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699725
-#EXTINF:-1 tvg-id="Motorvision TV.de" tvg-name="DE - MOTORVISION TV UHD" tvg-logo="https://logo.protv.cc/piconsnew/motorvision.png" group-title="|DE| SPORT",DE - MOTORVISION TV UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699724
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="DE - ESPORTS1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/esports1.png" group-title="|DE| SPORT",DE - ESPORTS1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699723
-#EXTINF:-1 tvg-id="AutoMotorSport.de" tvg-name="DE - AUTO MOTOR SPORT HD" tvg-logo="https://logo.protv.cc/piconsnew/automotorsport.png" group-title="|DE| SPORT",DE - AUTO MOTOR SPORT HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699722
-#EXTINF:-1 tvg-id="" tvg-name="DE - CLIPMYHORSE.TV HD" tvg-logo="https://logo.protv.cc/piconsnew/clipmyhorsetv.png" group-title="|DE| SPORT",DE - CLIPMYHORSE.TV HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/699721
-#EXTINF:-1 tvg-id="" tvg-name="DE - WAIDWERK" tvg-logo="https://logo.protv.cc/piconsnew/waidwerk.png" group-title="|DE| SPORT",DE - WAIDWERK
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/839567
-
-
-
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE - DAZN BAR 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1145575.png" group-title="|DE| SPORT",DE - DAZN BAR 1
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1145575
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE - DAZN BAR 1 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699786.png" group-title="|DE| SPORT",DE - DAZN BAR 1 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699786
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE - DAZN BAR 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699785.png" group-title="|DE| SPORT",DE - DAZN BAR 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699785
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DE - DAZN BAR 2" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1145576.png" group-title="|DE| SPORT",DE - DAZN BAR 2
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1145576
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DE - DAZN BAR 2 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699784.png" group-title="|DE| SPORT",DE - DAZN BAR 2 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699784
+#EXTINF:-1 tvg-id="DAZN.de" tvg-name="DE - DAZN BAR 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699783.png" group-title="|DE| SPORT",DE - DAZN BAR 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699783
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="DE - SKY SPORT NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699782.png" group-title="|DE| SPORT",DE - SKY SPORT NEWS HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699782
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="DE - SKY SPORT NEWS UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699781.png" group-title="|DE| SPORT",DE - SKY SPORT NEWS UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699781
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE - SKY SPORTS F1 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699780.png" group-title="|DE| SPORT",DE - SKY SPORTS F1 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699780
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE - SKY SPORTS F1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699779.png" group-title="|DE| SPORT",DE - SKY SPORTS F1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699779
+#EXTINF:-1 tvg-id="FCBayernTV.de" tvg-name="DE - FC BAYERN TV HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699778.png" group-title="|DE| SPORT",DE - FC BAYERN TV HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699778
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE - SKY SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699777.png" group-title="|DE| SPORT",DE - SKY SPORT 1 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699777
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE - SKY SPORT 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699776.png" group-title="|DE| SPORT",DE - SKY SPORT 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699776
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE - SKY SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699775.png" group-title="|DE| SPORT",DE - SKY SPORT 2 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699775
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE - SKY SPORT 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699774.png" group-title="|DE| SPORT",DE - SKY SPORT 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699774
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE - SKY SPORT 3 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699753.png" group-title="|DE| SPORT",DE - SKY SPORT 3 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699753
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE - SKY SPORT 3 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699752.png" group-title="|DE| SPORT",DE - SKY SPORT 3 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699752
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE - SKY SPORT 4 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699751.png" group-title="|DE| SPORT",DE - SKY SPORT 4 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699751
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE - SKY SPORT 4 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699750.png" group-title="|DE| SPORT",DE - SKY SPORT 4 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699750
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE - SKY SPORT 5 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699749.png" group-title="|DE| SPORT",DE - SKY SPORT 5 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699749
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE - SKY SPORT 5 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699748.png" group-title="|DE| SPORT",DE - SKY SPORT 5 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699748
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE - SKY SPORT 6 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699747.png" group-title="|DE| SPORT",DE - SKY SPORT 6 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699747
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE - SKY SPORT 6 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699746.png" group-title="|DE| SPORT",DE - SKY SPORT 6 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699746
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="DE - SKY SPORT 7 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699745.png" group-title="|DE| SPORT",DE - SKY SPORT 7 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699745
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="DE - SKY SPORT 7 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699744.png" group-title="|DE| SPORT",DE - SKY SPORT 7 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699744
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="DE - SKY SPORT 8 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699743.png" group-title="|DE| SPORT",DE - SKY SPORT 8 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699743
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="DE - SKY SPORT 8 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699742.png" group-title="|DE| SPORT",DE - SKY SPORT 8 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699742
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="DE - SKY SPORT 9 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699741.png" group-title="|DE| SPORT",DE - SKY SPORT 9 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699741
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="DE - SKY SPORT 9 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699740.png" group-title="|DE| SPORT",DE - SKY SPORT 9 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699740
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE - SKY SPORT 10 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699739.png" group-title="|DE| SPORT",DE - SKY SPORT 10 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699739
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE - SKY SPORT 10 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699738.png" group-title="|DE| SPORT",DE - SKY SPORT 10 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699738
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT 12 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699737.png" group-title="|DE| SPORT",DE - SKY SPORT 12 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699737
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT 13 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699736.png" group-title="|DE| SPORT",DE - SKY SPORT 13 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699736
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT 14 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699735.png" group-title="|DE| SPORT",DE - SKY SPORT 14 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699735
+#EXTINF:-1 tvg-id="SkySportAustria5.at" tvg-name="DE - SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/753606.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/753606
+#EXTINF:-1 tvg-id="SkySportAustria6.at" tvg-name="DE - SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/753607.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/753607
+#EXTINF:-1 tvg-id="SkySportAustria7.at" tvg-name="DE - SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/753608.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/753608
+#EXTINF:-1 tvg-id="SkySportAustria7.at" tvg-name="DE - SKY SPORT AUSTRIA 8 FHD (DURING GAMES ONLY)" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1320058.png" group-title="|DE| SPORT",DE - SKY SPORT AUSTRIA 8 FHD (DURING GAMES ONLY)
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1320058
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE - SKY BUNDESLIGA 1 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699773.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 1 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699773
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE - SKY BUNDESLIGA 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699772.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699772
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE - SKY BUNDESLIGA 2 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699771.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 2 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699771
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE - SKY BUNDESLIGA 2 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699770.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 2 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699770
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE - SKY BUNDESLIGA 3 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699769.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 3 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699769
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE - SKY BUNDESLIGA 3 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699768.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 3 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699768
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE - SKY BUNDESLIGA 4 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699767.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 4 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699767
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE - SKY BUNDESLIGA 4 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699766.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 4 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699766
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE - SKY BUNDESLIGA 5 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699765.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 5 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699765
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE - SKY BUNDESLIGA 5 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699764.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 5 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699764
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE - SKY BUNDESLIGA 6 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699763.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 6 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699763
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE - SKY BUNDESLIGA 6 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699762.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 6 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699762
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE - SKY BUNDESLIGA 7 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699761.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 7 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699761
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE - SKY BUNDESLIGA 7 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699760.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 7 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699760
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE - SKY BUNDESLIGA 8 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699759.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 8 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699759
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE - SKY BUNDESLIGA 8 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699758.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 8 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699758
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="DE - SKY BUNDESLIGA 9 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699757.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 9 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699757
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="DE - SKY BUNDESLIGA 9 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699756.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 9 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699756
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="DE - SKY BUNDESLIGA 10 HD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699755.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 10 HD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699755
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="DE - SKY BUNDESLIGA 10 UHD [EVENTS-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699754.png" group-title="|DE| SPORT",DE - SKY BUNDESLIGA 10 UHD [EVENTS-ONLY]
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699754
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT TOP EVENT FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/750144.png" group-title="|DE| SPORT",DE - SKY SPORT TOP EVENT FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/750144
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT TENNIS FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/750143.png" group-title="|DE| SPORT",DE - SKY SPORT TENNIS FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/750143
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/750142.png" group-title="|DE| SPORT",DE - SKY SPORT PREMIER LEAGUE FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/750142
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT MIX FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/750141.png" group-title="|DE| SPORT",DE - SKY SPORT MIX FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/750141
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SPORT GOLF FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/992139.png" group-title="|DE| SPORT",DE - SKY SPORT GOLF FHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/992139
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE - EUROSPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699734.png" group-title="|DE| SPORT",DE - EUROSPORT 1 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699734
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE - EUROSPORT 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699733.png" group-title="|DE| SPORT",DE - EUROSPORT 1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699733
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE - EUROSPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699732.png" group-title="|DE| SPORT",DE - EUROSPORT 2 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699732
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE - EUROSPORT 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699731.png" group-title="|DE| SPORT",DE - EUROSPORT 2 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699731
+#EXTINF:-1 tvg-id="" tvg-name="DE - EUROSPORT 2 XTRA HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699730.png" group-title="|DE| SPORT",DE - EUROSPORT 2 XTRA HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699730
+#EXTINF:-1 tvg-id="" tvg-name="DE - EUROSPORT 2XTRA UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699729.png" group-title="|DE| SPORT",DE - EUROSPORT 2XTRA UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699729
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE - SPORT1 HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699728.png" group-title="|DE| SPORT",DE - SPORT1 HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699728
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE - SPORT1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699727.png" group-title="|DE| SPORT",DE - SPORT1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699727
+#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="DE - SPORT1+ UHD UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699726.png" group-title="|DE| SPORT",DE - SPORT1+ UHD UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699726
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE - SPORTDIGITAL FUSSBALL UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699725.png" group-title="|DE| SPORT",DE - SPORTDIGITAL FUSSBALL UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699725
+#EXTINF:-1 tvg-id="Motorvision TV.de" tvg-name="DE - MOTORVISION TV UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699724.png" group-title="|DE| SPORT",DE - MOTORVISION TV UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699724
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="DE - ESPORTS1 UHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699723.png" group-title="|DE| SPORT",DE - ESPORTS1 UHD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699723
+#EXTINF:-1 tvg-id="AutoMotorSport.de" tvg-name="DE - AUTO MOTOR SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699722.png" group-title="|DE| SPORT",DE - AUTO MOTOR SPORT HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699722
+#EXTINF:-1 tvg-id="" tvg-name="DE - CLIPMYHORSE.TV HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699721.png" group-title="|DE| SPORT",DE - CLIPMYHORSE.TV HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/699721
+#EXTINF:-1 tvg-id="" tvg-name="DE - WAIDWERK" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/839567.png" group-title="|DE| SPORT",DE - WAIDWERK
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/839567
 #EXTINF:-1 tvg-id="" tvg-name="##### [UK] SPORTS UHD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK] SPORTS UHD #####
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/578002
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/578002
 #EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENTS UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577997
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577997
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577996
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577996
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577995
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577995
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577994
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577994
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577993
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577993
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577992
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577992
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577991
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577991
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577990
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577990
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577989
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577989
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577988
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577988
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577987
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577987
 #EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="|UK| SPORTS",UK - TNT SPORTS 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/578001
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/578001
 #EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="|UK| SPORTS",UK - TNT SPORTS 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/578000
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/578000
 #EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="|UK| SPORTS",UK - TNT SPORTS 3 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577999
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577999
 #EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="UK - TNT SPORTS 4 UHD" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 4 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/782732
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/782732
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 5 UHD" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 5 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774608
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774608
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 5 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774607
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774607
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 5
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774606
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774606
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 6
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774605
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774605
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 7
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774604
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774604
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 8" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 8
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774603
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774603
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 9" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 9
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774602
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774602
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 10" tvg-logo="http://103.176.90.118/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - TNT SPORTS 10
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/774601
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/774601
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORT ULTIMATE" tvg-logo="http://103.176.90.118/picons/logos/BT-SPORT-ULTIMATE.png" group-title="|UK| SPORTS",UK - TNT SPORT ULTIMATE
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/804331
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/804331
 #EXTINF:-1 tvg-id="" tvg-name="UK - BT BOX OFFICE HD" tvg-logo="http://103.176.90.118/picons/logos/UK/BT-BOX-OFFICE.png" group-title="|UK| SPORTS",UK - BT BOX OFFICE HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/783987
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/783987
 #EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="|UK| SPORTS",UK - TNT SPORTS ESPN UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577998
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577998
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPERSPORT 1 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/766852
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/766852
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport2.png" group-title="|UK| SPORTS",UK - SUPERSPORT 2 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/766853
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/766853
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport3.png" group-title="|UK| SPORTS",UK - SUPERSPORT 3 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/766854
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/766854
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport4.png" group-title="|UK| SPORTS",UK - SUPERSPORT 4 HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/766855
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/766855
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577985
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577985
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577984
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577984
 #EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK - LFC TV" tvg-logo="https://logo.protv.cc/piconsnew/lfctv.png" group-title="|UK| SPORTS",UK - LFC TV
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577953
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577953
 #EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV UHD" tvg-logo="https://logo.protv.cc/piconsnew/premiersport.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577983
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577983
 #EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - PREMIER SPORTS 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577982
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577982
 #EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORT 2 UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577981
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577981
 #EXTINF:-1 tvg-id="" tvg-name="UK - CHELSEA TV UHD [LIVE ON MATCHES]" tvg-logo="https://logo.protv.cc/piconsnew/chelseatv.png" group-title="|UK| SPORTS",UK - CHELSEA TV UHD [LIVE ON MATCHES]
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577980
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577980
 #EXTINF:-1 tvg-id="" tvg-name="UK - SIS ONE" tvg-logo="http://51.158.145.100/picons/logos/UK/SIS-ONE.png" group-title="|UK| SPORTS",UK - SIS ONE
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1184513
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1184513
 #EXTINF:-1 tvg-id="" tvg-name="UK - SIS RACING" tvg-logo="http://51.158.145.100/picons/logos/UK/SIS-RACING.png" group-title="|UK| SPORTS",UK - SIS RACING
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1184514
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1184514
 #EXTINF:-1 tvg-id="" tvg-name="UK - SIS TWO" tvg-logo="https://logo.protv.cc/piconsnew/sistwo.png" group-title="|UK| SPORTS",UK - SIS TWO
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1184515
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1184515
 #EXTINF:-1 tvg-id="" tvg-name="UK - WILLIAM HILL TV1" tvg-logo="http://51.158.145.100/picons/logos/logos/WILLIAM-HILL-LIVE.png" group-title="|UK| SPORTS",UK - WILLIAM HILL TV1
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1184510
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1184510
 #EXTINF:-1 tvg-id="" tvg-name="UK - WILLIAM HILL TV2" tvg-logo="http://51.158.145.100/picons/logos/logos/WILLIAM-HILL-LIVE.png" group-title="|UK| SPORTS",UK - WILLIAM HILL TV2
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1184511
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1184511
 #EXTINF:-1 tvg-id="" tvg-name="##### [UK]  SKY SPORTS FHD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK]  SKY SPORTS FHD #####
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577979
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577979
 #EXTINF:-1 tvg-id="" tvg-name="UK - RANGERS TV LIVE EVENT" tvg-logo="http://103.176.90.118/picons-dino/logos/RANGERS-TV.png" group-title="|UK| SPORTS",UK - RANGERS TV LIVE EVENT
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/755223
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/755223
 #EXTINF:-1 tvg-id="" tvg-name="UK - CELTIC TV" tvg-logo="http://103.176.90.118/picons/logos/CELTIC.png" group-title="|UK| SPORTS",UK - CELTIC TV
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/759746
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/759746
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577978
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577978
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577977
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577977
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577976
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577976
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577975
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577975
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577974
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577974
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577973
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577973
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577972
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577972
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577971
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577971
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577970
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577970
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577969
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577969
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577968
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577968
 #EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS ACTION FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsaction.png" group-title="|UK| SPORTS",UK - SKY SPORTS ACTION FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/726827
-#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="UK - SKY SPORTS TENNIS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-TENNIS.png" group-title="|UK| SPORTS",UK - SKY SPORTS TENNIS HD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/1089330
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/726827
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="UK - SKY SPORTS TENNIS HD" tvg-logo="https://logo.protv.cc/piconsnew/skysporttennis.png" group-title="|UK| SPORTS",UK - SKY SPORTS TENNIS HD
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1089330
 #EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="|UK| SPORTS",UK - TNT SPORTS 1 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577967
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577967
 #EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="|UK| SPORTS",UK - TNT SPORTS 2 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577966
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577966
 #EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="|UK| SPORTS",UK - TNT SPORTS 3 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577965
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577965
 #EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="|UK| SPORTS",UK - TNT SPORTS ESPN FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577964
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577964
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 FHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577963
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577963
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 FHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577962
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577962
 #EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577961
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577961
 #EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - VIAPLAY SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - VIAPLAY SPORT 1 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577960
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577960
 #EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORTS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 2 FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577959
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577959
 #EXTINF:-1 tvg-id="" tvg-name="UK - PDC DARTS TV 1 (Event Only)" tvg-logo="http://103.176.90.118/picons/logos/PDC-.png" group-title="|UK| SPORTS",UK - PDC DARTS TV 1 (Event Only)
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/854422
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/854422
 #EXTINF:-1 tvg-id="" tvg-name="UK - MUTV" tvg-logo="https://logo.protv.cc/piconsnew/mutv.png" group-title="|UK| SPORTS",UK - MUTV
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/754447
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/754447
 #EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK - RACING UK FHD" tvg-logo="https://logo.protv.cc/piconsnew/racinguk.png" group-title="|UK| SPORTS",UK - RACING UK FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577958
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577958
 #EXTINF:-1 tvg-id="" tvg-name="UK - MAN UNITED FHD" tvg-logo="https://logo.protv.cc/piconsnew/mutv.png" group-title="|UK| SPORTS",UK - MAN UNITED FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577952
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577952
 #EXTINF:-1 tvg-id="" tvg-name="UK - PDC DARTS TV 1 (Event Only)" tvg-logo="http://103.176.90.118/picons/logos/PDC-.png" group-title="|UK| SPORTS",UK - PDC DARTS TV 1 (Event Only)
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577951
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577951
 #EXTINF:-1 tvg-id="" tvg-name="UK - RMTV" tvg-logo="http://51.158.145.100/picons/logos/UK/RMTV.png" group-title="|UK| SPORTS",UK - RMTV
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577950
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577950
 #EXTINF:-1 tvg-id="" tvg-name="UK - WWE LIVE FHD" tvg-logo="https://logo.protv.cc/piconsnew/wwe.png" group-title="|UK| SPORTS",UK - WWE LIVE FHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577949
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577949
 #EXTINF:-1 tvg-id="" tvg-name="##### [UK] SKY SPORTS SD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK] SKY SPORTS SD #####
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577948
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577948
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577947
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577947
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.protv.cc/piconsnew/skysportspremierleague.png" group-title="|UK| SPORTS",UK - SKY SPORTS PREMIER LEAGUE
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577946
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577946
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577945
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577945
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577944
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577944
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577943
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577943
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577942
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577942
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577941
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577941
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF" tvg-logo="https://logo.protv.cc/piconsnew/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577940
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577940
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577939
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577939
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577938
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577938
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING" tvg-logo="https://logo.protv.cc/piconsnew/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577937
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577937
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT EVENTS UHD" tvg-logo="http://51.158.145.100/picons/logos/UK/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORT EVENTS UHD
-http://67835-reject.ott-di.com:80/1aa9563465/d4d3b7455010/577935
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/577935
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] EPL #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| EPL SOCCER",##### [UK] EPL #####
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/766094
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 1" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 1
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178467
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 2" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 2
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178466
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 3" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 3
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178465
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 4" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 4
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178464
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 5" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 5
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178463
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 6" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 6
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178462
+#EXTINF:-1 tvg-id="" tvg-name="EPL -  PREMIERE LEAGUE 7" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL -  PREMIERE LEAGUE 7
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178461
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 8" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 8
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178460
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 9" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 9
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178459
+#EXTINF:-1 tvg-id="" tvg-name="EPL - PREMIERE LEAGUE 10" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-LEAGUE.png" group-title="|UK| EPL SOCCER",EPL - PREMIERE LEAGUE 10
+http://line.dndnscloud.ru:80/354da31976/c0901c2d977a/1178458
